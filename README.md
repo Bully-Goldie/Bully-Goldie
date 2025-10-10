@@ -1,4 +1,4 @@
-<img width="1185" height="1390" alt="image" src="https://github.com/user-attachments/assets/d2212128-6a40-42e6-9014-d0ff8ad71002" /><h1 align="center">👋 Привет, я Иван!</h1>
+👋 Привет, я Иван!</h1>
 <h3 align="center">💻 Начинающий программист</h3>
 
 ---
