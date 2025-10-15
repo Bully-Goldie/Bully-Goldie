@@ -4,7 +4,7 @@
 ---
 
 ### 🧭 Обо мне
-- 🎯 Изучаю языки программирования **C# / C / С++ / Assembler / Java / Python**
+- 🎯 Изучаю языки программирования **C# / C / С++ / Java / Python**
 - 💾 Интересуюсь **базами данных (MySQL, PostgreSQL, MongoDB)**
 - ⚙️ Изучаю **GNU/Linux** и **Git**
 - 📫 Связаться со мной: **hcfygxxg@gmail.com**
